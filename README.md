@@ -1,6 +1,6 @@
 # Simple Linear Regression
 
-This is my first AI like creation that predicts house prices in rural areas. I takes in house square feet and number of rooms and does the math and spits out the prediction expected. It works like this, you give it number of rooms and square feet and it will predict basing on data that was trained on it. I have leaned all of this by going through chatGPT explanations so as to make it happen. Thank You.
+This is my first AI like creation that predicts house prices in rural areas. I takes in house square feet and number of rooms and does the math and spits out the prediction expected. It works like this, you give it number of rooms and square feet and it will predict basing on data that was trained on it. I have learned all of this by going through chatGPT explanations so as to make it happen. Thank You.
 
 ## About Me
 
@@ -17,7 +17,7 @@ In this repository, you can explore various projects I have worked on, including
 ## Technologies Used
 
 - **Programming Languages**: Python
-- **Tools**: Pycharm(to write scripts), chatGPT(to learn)
+- **Tools**: Pycharm, chatGPT
 - **Libraries/Frameworks**: Numpy and Random
 
 ## Live Website
