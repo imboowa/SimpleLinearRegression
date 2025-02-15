@@ -24,7 +24,7 @@ In this repository, you can explore various projects I have worked on, including
 
 You can view my live website hosted on GitHub Pages here:
 
-[https://imboowa.github.io/](https://imboowa.github.io/)
+[https://imboowa.github.io/]([https://imboowa.github.io/](https://imboowa.github.io/ImmanuelMboowa/))
 
 ## Contact
 
