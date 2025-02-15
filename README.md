@@ -1,10 +1,10 @@
 # Simple Linear Regression
 
-This is my first AI like creation that predicts house prices in rural areas. I takes in house square feet and number of rooms and does the math and spits out the prediction expected. It works like this, you give it number of rooms and square feet and it will predict basing on data that was trained on it. I have learned all of this by going through chatGPT explanations so as to make it happen. Thank You.
+This is my first AI like creation that predicts house prices in rural areas. I takes in house square feet and number of rooms and does the math and spits out the prediction expected. It works like this, you give it number of rooms and square feet and it will predict basing on data that was trained on. I have learned all of this by going through chatGPT explanations so as to make it happen. Thank You.
 
 ## About Me
 
-I am a passionate developer with expertise in **Python** and **C++** programming. I am particularly interested in **Artificial Intelligence**, **Computational Biology**, and **Animation**. My goal is to create innovative solutions that contribute to these fields.
+I am a passionate developer with expertise in **Python** and **C++** programming. I am particularly interested in **Artificial Intelligence**, **Computational Biology**, **Animation**, and **Web Development**. My goal is to create innovative solutions that contribute to these fields.
 
 ## Projects
 
@@ -12,13 +12,13 @@ In this repository, you can explore various projects I have worked on, including
 
 - **Python Projects**: AI applications, bioinformatics, and simple utility scripts.
 - **C++ Projects**: Console-based applications, games, and efficiency-driven programs.
-- **Major Projects**: Ongoing work on AI algorithms, 3D Animations, and bioinformatics applications.
+- **Major Projects**: Ongoing work on AI algorithms, 3D Animations, Simple prrograms in Python, C++, Javascript, (HTML and CSS), and bioinformatics applications.
 
 ## Technologies Used
 
 - **Programming Languages**: Python
 - **Tools**: Pycharm, ChatGPT
-- **Libraries/Frameworks**: Numpy and Random
+- **Libraries/Frameworks**: Numpy and Random modules
 
 ## Live Website
 
