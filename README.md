@@ -17,7 +17,7 @@ In this repository, you can explore various projects I have worked on, including
 ## Technologies Used
 
 - **Programming Languages**: Python
-- **Tools**: Pycharm, chatGPT
+- **Tools**: Pycharm, ChatGPT
 - **Libraries/Frameworks**: Numpy and Random
 
 ## Live Website
