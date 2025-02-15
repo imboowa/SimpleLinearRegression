@@ -1,6 +1,6 @@
 # Simple Linear Regression
 
-This is my first AI like creation that predicts house prices in rural areas. I takes in house square feet and number of rooms and does the math and spits out the prediction expected. It works like this, you give it number of rooms and square feet and it will predict basing on data that was trained on. I have learned all of this by going through chatGPT explanations so as to make it happen. Thank You.
+This is my first AI like creation that predicts house prices in rural areas. I takes in house square feet and number of rooms and does the math and spits out the prediction expected. It works like this, you give it number of rooms and square feet and it will predict basing on data that was trained on. I have learned all of this by going through ChatGPT explanations responses so as to make it happen. Thank You.
 
 ## About Me
 
