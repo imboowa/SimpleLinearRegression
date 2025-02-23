@@ -18,7 +18,6 @@ for _ in range(epochs):
 
     w1 = w1 - alpha * (2 / len(data_price) * np.sum(error * data_rooms))
     w2 = w2 - alpha * (2 / len(data_price) * np.sum(error * data_square_feet))
-
     b = b - alpha * (2 / len(data_price) * np.sum(error))
 
 # After the iterations, provide the final weights and biases
