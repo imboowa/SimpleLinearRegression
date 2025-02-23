@@ -1,5 +1,3 @@
-from typing import Any
-
 import numpy as np
 
 # Prepare our data primitively
