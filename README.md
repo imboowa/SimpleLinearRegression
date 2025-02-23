@@ -4,7 +4,7 @@ Theses are my first AI like creation that predicts house prices in rural areas, 
 
 ## About Me
 
-I am a passionate developer with expertise in **Python** and **C++** programming. I am particularly interested in **Artificial Intelligence**, **Computational Biology**, **Animation**, and **Web Development**. My goal is to create innovative solutions that contribute to these fields.
+I am a passionate developer with expertise in **Python** and **C++** programming. I am particularly interested in **Artificial Intelligence**, **Computational Biology**, **3D Animation**, and **Web Development**. My goal is to create innovative solutions that contribute to these fields.
 
 ## Projects
 
